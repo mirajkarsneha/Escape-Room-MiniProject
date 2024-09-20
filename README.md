@@ -54,7 +54,9 @@ Welcome to Escape Room game, the goal of this game is to escape from the startin
 - Freedom! You’ve managed to escape the room! Congrats on your successful adventure! Now, can you recount the thrilling journey and the clever strategy that got you here?
 
 ## 🏃‍♂️ How to run the game 
-- Run the main.ipyb file to start the game. 
+- Run the main.ipyb file to start the game.
+
+## 🏃‍♂️ What happens next at the backend
 - When the game starts function start_game() is called.
 - start_game() function calls play_room(room) function
 - play_room(room) function, first checks if the room being played is the target room. If it is, the game will end with success. Otherwise, let player eitherexplore (list all items in this room) or examine an item found here.

@@ -3,6 +3,10 @@
 ## 📒 Description 
 Welcome to Escape Room game, the goal of this game is to escape from the starting room (Game Room) to the end (Outside).
 
+## 💡 Prerequisites 
+- Jupiter
+- Python
+
 ## 🧠 Game Narrative 
 - Suddenly, you find yourself waking up on an unfamiliar couch, in an eerie house devoid of windows. Your memory fails to provide any explanation about how you ended up here, or what transpired previously. You can sense an imminent threat lurking somewhere - your gut tells you to escape the house immediately!
 
